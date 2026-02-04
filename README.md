@@ -49,12 +49,6 @@ Me chamo Yuri Chaves Cabral, tenho 18 anos e sou natural da Bahia. Concluí o en
 <br/>
 <br/>
 
-
-
-<br/>
-<br/>
-
-
 ### 📊 Estatísticas
 
 <p>
