@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Backend`**
 
-Me chamo Yuri Chaves Cabral, tenho 18 anos e sou natural da Bahia. Concluí o ensino médio no Sesi Djalma Pessoa e atualmente, estou cursando Técnico em Desenvolvimento de Sistemas no Senai Cimatec.
+Me chamo Yuri Chaves Cabral, tenho 18 anos e sou natural da Bahia. Concluí o ensino médio no Sesi Djalma Pessoa e atualmente, estou cursando Técnico em Desenvolvimento de Sistemas no Senai Cimatec e Engenharia de Software na Ucsal.
 
 <p align="left">
     </a> 
